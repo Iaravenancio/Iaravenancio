@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ Olá! Eu sou a Iara Venâncio ✨
+✨ Oiii! Eu sou a Iara Venâncio ✨
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  
 🌍 Guarapari - ES  
