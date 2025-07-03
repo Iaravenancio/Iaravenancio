@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 📫 Contato
 
 - 💌 E-mail: iara.ven4nci0@gmail.com  
-- 💼 LinkedIn: [Iara Venâncio](https://www.linkedin.com/in/iara-ven%C3%A2ncio-327370357/)
+- 💼 LinkedIn: [Iara Venâncio](www.linkedin.com/in/iara-venâncio)
 
 ---
 
