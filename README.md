@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  
 🌍 Guarapari - ES  
-💻 Em busca de uma oportunidade de estágio em tecnologia  
-📚 Foco em desenvolvimento Web com HTML, CSS e JavaScript  
+💻 Em busca de uma oportunidade de estágio em tecnologia    
 
 ---
 
